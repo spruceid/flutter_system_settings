@@ -1,3 +1,8 @@
+# THIS IS A FORK
+system_settings appears to be unmaintained and no longer builds well with
+our flutter 3.16 project.   This fork does not change anything other than
+updating the gradle version and some related dependencies.
+
 # system_settings
 
 ![Build](https://github.com/fweinaug/system_settings/workflows/Build/badge.svg)
