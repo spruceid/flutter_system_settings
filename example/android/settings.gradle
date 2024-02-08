@@ -23,11 +23,6 @@ pluginManagement {
 
 plugins {
     id "dev.flutter.flutter-plugin-loader" version "1.0.0"
-    // We must continue with this version because the system_settings package
-    // is old.  So we can't update it.
-    //id "com.android.application" version "7.2.2" apply false
-    //
-    // I'm forking system_settings so we can update it's build
     id "com.android.application" version "7.4.2" apply false
 }
 
